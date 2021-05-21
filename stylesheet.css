@@ -371,7 +371,7 @@ header .main-header .header-container {
   width: 24%;
   height: 100%;
   margin-right: 30px;
-  background-image: url(/Users/yuitokidoguchi/Desktop/portfolio_footballclub/image/thomas-serer-Kxjkme-WQMQ-unsplash.jpg);
+  background-image: url(image/thomas-serer-Kxjkme-WQMQ-unsplash.jpg);
   background-size: cover;
   position: relative;
 }
@@ -466,7 +466,7 @@ header .main-header .header-container {
 }
 
 .lfctv-wrapper {
-  background-image: url(/Users/yuitokidoguchi/Desktop/portfolio_footballclub/image/amadej-tauses-KhrTTf8gr6w-unsplash.jpg);
+  background-image: url(image/amadej-tauses-KhrTTf8gr6w-unsplash.jpg);
   background-position: center center;
   background-size: cover;
   height: 700px;
